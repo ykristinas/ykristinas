@@ -15,8 +15,8 @@ My name is Kristina, I am a frontend developer from the city of Togliatti. I wor
 *   🖥️  See my portfolio at [My portfolio](http://ykristinas.github.io/Portfolio/)
 *   ✉️  You can contact me at [verywellq@gmail.com](mailto:verywellq@gmail.com)
 *   🧠  I'm learning Node.JS/Next.JS, TypeScript, practicing ReactNative.
-*   🤝  I'm open to collaborating on work on projects.### Skills
-*   📱Telegram @ykristinas
+*   🤝  I'm open to collaborating on work on projects.
+*   📱  Telegram @ykristinas
 
 <p align="left" display="flex">
 <h1>Layout</h1>
